@@ -1,0 +1,60 @@
+
+  body {
+    background-color:#444;
+}
+
+.uk-navbar-item .logo {
+  height: 120px;
+}
+
+.uk-container {
+    background-color:#fff;
+}
+
+.uk-navbar {
+    background-color:#fff;
+}
+
+.contact {
+      color:white;
+  margin-top:10px;
+}
+.contactForm{
+}
+
+.footer{
+    overflow:hidden;
+}
+
+.uk-textarea{
+    resize: vertical;
+}
+
+.uk-card {
+    -moz-box-shadow: 10px 10px 10px #222;
+  -webkit-box-shadow: 10px 10px 10px #222;
+  -o-box-shadow: 10px 10px 10px #222;
+  box-shadow: 10px 10px 10px #222;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='#222', Direction=135, Strength=10);
+  
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  
+  transition: all .2s ease-in-out;
+}
+
+  .uk-card:hover {
+          transform: scale(1.05);
+}
+
+.articles{
+    color:#000;
+  padding:80px;
+  background-color:#fff;
+}
+
+.citation{
+    color:#333;
+}
+
