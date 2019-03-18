@@ -1,2 +1,3 @@
-# uikit-resto
-site uikit restaurant
+# uikit
+Conception d'un site restaurant dans le cadre du workshop sur Uikit
+
